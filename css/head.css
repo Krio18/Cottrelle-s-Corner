@@ -1,0 +1,54 @@
+
+/*---------- top page ----------*/
+
+#top_page {
+    position : fixed;
+    z-index: 98;
+    box-sizing: border-box;
+    width: 100vw;
+
+    background: #7eac65;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#top_page_tool {
+    position : fixed;
+    top : 5em;
+    z-index: 98;
+    box-sizing: border-box;
+    width: 100vw;
+
+    background: #7eac65;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#menu_txt {
+    text-decoration: none;
+    position: relative;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8em;
+    margin: 0.9em;
+}
+
+#arrow_img {
+    opacity: 0.60;
+    background-size: 100%;
+    margin-top: 2.1em;
+    margin-bottom: 2em;
+    margin-left: 0.9em;
+}
+
+.toolbar {
+    text-decoration: none;
+    position: relative;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    margin-left: 6%;
+    margin-right: 6%;
+}
