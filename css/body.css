@@ -66,7 +66,6 @@ body {
     text-align: left;
 }
 
-
 #image_projet {
     width: 50vw;
     height: 35vw;
@@ -125,8 +124,10 @@ body {
 }
 .interline {line-height: 1.5em;}
 .anchor {
+    font-family: "Arial", sans-serif;
     color: #7eac65;
-    font-weight: 900;
+    font-weight: 600;
+    font-size: 22px;
     text-decoration: none;
 }
 .special_text {
@@ -153,4 +154,7 @@ body {
     color: #333;
     line-height: 1.5em;
     text-align: center;
+}
+.Blank {
+    height: 20vw;
 }
